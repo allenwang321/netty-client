@@ -36,6 +36,12 @@
             <version>4.1.6.Final</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.bestboke</groupId>
+            <artifactId>utils</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+
     </dependencies>
 
     <build>

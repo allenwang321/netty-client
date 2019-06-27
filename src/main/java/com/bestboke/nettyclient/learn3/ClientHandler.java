@@ -1,8 +1,9 @@
 package com.bestboke.nettyclient.learn3;
 
-import com.bestboke.nettycommons.nettypacket.LoginRequestPacket;
-import com.bestboke.nettycommons.nettypacket.LoginResponsePacket;
+
 import com.bestboke.nettycommons.nettypacket.Packet;
+import com.bestboke.nettycommons.nettypacket.request.LoginRequestPacket;
+import com.bestboke.nettycommons.nettypacket.response.LoginResponsePacket;
 import com.bestboke.nettycommons.nettyserializer.PacketCodeC;
 import com.betboke.utils.TimeUtils;
 import io.netty.buffer.ByteBuf;

@@ -1,4 +1,4 @@
-package com.bestboke.nettyclient.learn3;
+package com.bestboke.nettyclient.learn4;
 
 import com.bestboke.nettycommons.DefaultParameter;
 import com.bestboke.nettycommons.nettypacket.request.MessageRequestPacket;
